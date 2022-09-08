@@ -1,14 +1,6 @@
 {
   "foods": [
     {
-      "id": 2,
-      "name": "test",
-      "description": "tes",
-      "price": "21.1290",
-      "available": true,
-      "image": "test"
-    },
-    {
       "id": 3,
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
@@ -17,20 +9,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
     },
     {
-      "image": "marlon",
-      "name": "test",
-      "price": "12131",
-      "description": "rest",
+      "image": "",
+      "name": "De novo",
+      "price": "12.90",
+      "description": "Test",
       "available": true,
       "id": 4
-    },
-    {
-      "image": "12",
-      "name": "12",
-      "price": "12",
-      "description": "12",
-      "available": true,
-      "id": 5
     }
   ]
 }
