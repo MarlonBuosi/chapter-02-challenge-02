@@ -10,11 +10,27 @@
     },
     {
       "image": "",
-      "name": "De novo",
-      "price": "12.90",
-      "description": "Test",
+      "name": "Certeza?",
+      "price": "13.90",
+      "description": "Agora vai",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "",
+      "name": "Agora foi",
+      "price": "2390",
+      "description": "test",
+      "available": true,
+      "id": 5
+    },
+    {
+      "image": "",
+      "name": "mudou?",
+      "price": "12.90",
+      "description": "test",
+      "available": true,
+      "id": 6
     }
   ]
 }
