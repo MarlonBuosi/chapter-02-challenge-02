@@ -18,19 +18,19 @@
     },
     {
       "image": "",
-      "name": "Agora foi",
-      "price": "2390",
-      "description": "test",
-      "available": true,
-      "id": 5
-    },
-    {
-      "image": "",
       "name": "mudou?",
       "price": "12.90",
       "description": "test",
       "available": true,
       "id": 6
+    },
+    {
+      "image": "",
+      "name": "test",
+      "price": "test",
+      "description": "test",
+      "available": true,
+      "id": 7
     }
   ]
 }
